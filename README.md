@@ -3,7 +3,7 @@
 - 📫 How to reach me: nikkolascage01@gmail.com
 - ⚡ Fun fact: i like JAVA ☕☕ the most
 
-### Most used languages based on public repositories
+### Most used languages based on public repositories.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkolas-cage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
