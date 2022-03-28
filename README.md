@@ -20,8 +20,7 @@ const nikoi = {
   code: ["Javascript", "Java", "HTML", "CSS", "C++", "Java", "TypeScript", "C#"],
   askMeAbout: ["web dev", "frontend dev", "ui design", "android <3"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Ionic React", "figma", "Adobe XD"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Ionic React", "figma", "Adobe XD"]
   }
 }
 ```
