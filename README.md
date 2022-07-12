@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+sleepy+programmer;I'm+a+React+developer" /></a>
 </p>
-<p>I am a front-end developer, UI & UX Designer.</p>
+<p>I am a front-end developer.</p>
 <img align="right" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ktswty14j5lczfgok5wet5ae7otgg46p4k7wc02q&rid=giphy.gif&ct=g">
 <ul>
   <li>👋 Hi, I’m @Nikkolas-Cage</li>
