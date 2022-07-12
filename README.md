@@ -8,9 +8,8 @@
 <img align="right" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ktswty14j5lczfgok5wet5ae7otgg46p4k7wc02q&rid=giphy.gif&ct=g">
 <ul>
   <li>👋 Hi, I’m @Nikkolas-Cage</li>
-  <li>❤️ I love Designing in Figma and Adobe XD</li>
   <li>🌱 I’m currently learning React, Typescript and JS.</li>
-  <li>💼 I'm a Front end developer at Etel Technologies.</li>
+  <li>💼 I'm a Front end developer </li>
 </ul>
 
 #### A little more about me
