@@ -7,7 +7,7 @@
 <p>I am a front-end developer.</p>
 <img align="right" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ktswty14j5lczfgok5wet5ae7otgg46p4k7wc02q&rid=giphy.gif&ct=g">
 <ul>
-  <li><img width="12" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @Nikkolas-Cage</li>
+  <li><img width="14" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @Nikkolas-Cage</li>
   <li>🌱 I’m currently learning React, Typescript and JS.</li>
   <li>💼 I'm a Front end developer </li>
 </ul>
