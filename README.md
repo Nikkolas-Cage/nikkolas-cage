@@ -19,7 +19,7 @@ const nikoi = {
   code: ["Javascript", "Java", "HTML", "CSS", "C++", "Java", "TypeScript", "C#"],
   askMeAbout: ["web dev", "frontend dev", "ui design", "android <3"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Ionic React", "figma", "Adobe XD"]
+      frontend: ["NextJS", "HTML", "CSS", "JS", "Bootstrap", "Ionic React", "Figma", "Adobe XD"]
   }
 }
 ```
@@ -73,8 +73,9 @@ VS Code                  8 Hours            ████████████
 JetBrains                8 Hour             ██████████████░░░░░░░░░░░   50%
 
 💻 Operating System:
-Windows             7 hrs       ██████████████░░░░░░░░░░░   50%
-Ubuntu              7 hrs       ██████████████░░░░░░░░░░░   50%
+Mac                 7 hrs       ███████████████████░░░░░░   70%
+Ubuntu              1 hr        ██░░░░░░░░░░░░░░░░░░░░░░░   10%
+Windows             3 hrs       ██████░░░░░░░░░░░░░░░░░░░   30%
 
 ```
 
