@@ -4,12 +4,12 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+sleepy+programmer;I'm+a+React+developer" /></a>
 </p>
-<p>I am a front-end developer.</p>
+<p>I am a UI designer & Front end Developer.</p>
 <img align="right" src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ktswty14j5lczfgok5wet5ae7otgg46p4k7wc02q&rid=giphy.gif&ct=g">
 <ul>
   <li><img width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I’m @Nikkolas-Cage</li>
   <li>🌱 I’m currently learning React, Typescript and JS.</li>
-  <li>💼 I'm a Front end developer </li>
+  <li>💼 I'm a UI designer & Front end Developer </li>
 </ul>
 
 #### A little more about me
