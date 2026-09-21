@@ -128,16 +128,10 @@ The objective is simple:
 
 ## 📊 github stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikkolas-Cage&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkolas-Cage&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikkolas-Cage&theme=radical&hide_border=true" />
 </p>
-
-> If a card ever shows a broken image instead of your numbers, it's the public stats server hitting GitHub's rate limit — a known issue, not your markdown. Self-hosting your own instance (free, ~2 min) fixes it permanently: https://vercel.com/new/git/external?repository-url=https://github.com/anuraghazra/github-readme-stats
 
 ---
 
